@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="unimas69wami.us" tvg-name="US UniMas   (F)" tvg-logo="" group-title="USA ",US UniMas   (F)
+http://nocable.cc:8080/Debra/Debra/57969
+#EXTINF:-1 tvg-id="univision.us" tvg-name="US Univision (East) (SP)" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png" group-title="USA ",US Univision (East) (SP)
+http://nocable.cc:8080/Debra/Debra/15336
+#EXTINF:-1 tvg-id="univisiontlnovelas.us" tvg-name="US Latin Univision " tvg-logo="" group-title="USA ",US Latin Univision 
+http://nocable.cc:8080/Debra/Debra/108248
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 2 
+http://nocable.cc:8080/Debra/Debra/2210
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 1 (HD) 
+http://nocable.cc:8080/Debra/Debra/14197
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 1 (HD) 
+http://nocable.cc:8080/Debra/Debra/9802
+#EXTINF:-1 tvg-id="" tvg-name="CO: CANAL UNO" tvg-logo="" group-title="Colombia",CO: CANAL UNO
+http://nocable.cc:8080/Debra/Debra/78698
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL INTERNACIONAL HD" tvg-logo="" group-title="Colombia",CO: CARACOL INTERNACIONAL HD
+http://nocable.cc:8080/Debra/Debra/78701
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARCOL HD" tvg-logo="" group-title="Colombia",CO: CARCOL HD
+http://nocable.cc:8080/Debra/Debra/78700
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN24 HD" tvg-logo="" group-title="Colombia",CO: NTN24 HD
+http://nocable.cc:8080/Debra/Debra/78704
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN FHD" tvg-logo="" group-title="Colombia",CO: RCN FHD
+http://nocable.cc:8080/Debra/Debra/78694
+#EXTINF:-1 tvg-id="" tvg-name="COL: WIN SPORTS PLUS HD (EXCLUSIVO)" tvg-logo="" group-title="Colombia",COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+http://nocable.cc:8080/Debra/Debra/78697
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN NOVELAS" tvg-logo="" group-title="Colombia",CO: RCN NOVELAS
+http://nocable.cc:8080/Debra/Debra/78716
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA: TELEVEN" tvg-logo="" group-title="VENEZUELA",VENEZUELA: TELEVEN
+http://nocable.cc:8080/Debra/Debra/164931
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA: GLOBOVISION" tvg-logo="" group-title="VENEZUELA",VENEZUELA: GLOBOVISION
+http://nocable.cc:8080/Debra/Debra/164934
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE INTERNACIONAL HD" tvg-logo="" group-title="Argentina",ARG: TELEFE INTERNACIONAL HD
+http://nocable.cc:8080/Debra/Debra/164870
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="Argentina",ARG: CINE ARGENTINO
+http://nocable.cc:8080/Debra/Debra/164871
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN NOTICIAS" tvg-logo="" group-title="Argentina",ARG: TN NOTICIAS
+http://nocable.cc:8080/Debra/Debra/164873
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA HD" tvg-logo="" group-title="Argentina",ARG: CRONICA HD
+http://nocable.cc:8080/Debra/Debra/164875
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="Argentina",ARG: C5N HD
+http://nocable.cc:8080/Debra/Debra/164876
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO HD" tvg-logo="" group-title="Argentina",ARG: ENCUENTRO HD
+http://nocable.cc:8080/Debra/Debra/164878
